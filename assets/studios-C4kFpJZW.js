@@ -1,0 +1,13 @@
+const s=[{slug:"demo",template:"universal",name:"Ваше название",short:"Демо",city:"Ваш город",address:"ул. Примерная, 1",phone:"+7 (900) 000-00-00",review2gis:"https://2gis.ru/stavropol",reviewYandex:"https://yandex.ru/maps/36/stavropol/",requisites:"ИП Иванов Иван Иванович, ИНН 000000000000",warranty:`Гарантийные условия
+Гарантия на выполненные работы — 30 дней или 1 000 км пробега, в зависимости от того, что наступит раньше.
+Гарантия не распространяется на расходные материалы, естественный износ и на детали, предоставленные заказчиком.
+Для обращения по гарантии предъявите этот заказ-наряд.`,gallery:[{id:"g1",name:"Детейлинг",photos:["photos/detailing/w1.jpg","photos/detailing/w2.jpg","photos/detailing/w3.jpg","photos/detailing/w4.jpg"]},{id:"g2",name:"Мойка",photos:["photos/wash/w1.jpg","photos/wash/w2.jpg","photos/wash/w3.jpg","photos/wash/w4.jpg"]},{id:"g3",name:"Ремонт",photos:["photos/service/w1.jpg","photos/service/w2.jpg","photos/service/w3.jpg"]}]},{slug:"sgx",template:"detailing",name:"Shine Detailing",short:"Shine",city:"Ставрополь",address:"ул. Доваторцев, 47Б",phone:"+7 (962) 000-00-01",review2gis:"https://2gis.ru/stavropol",reviewYandex:"https://yandex.ru/maps/36/stavropol/",requisites:"ИП Иванов Иван Иванович, ИНН 000000000000",warranty:`Гарантийные условия
+Гарантия на выполненные работы — 30 дней или 1 000 км пробега, в зависимости от того, что наступит раньше.
+Гарантия не распространяется на расходные материалы, естественный износ и на детали, предоставленные заказчиком.
+Для обращения по гарантии предъявите этот заказ-наряд.`},{slug:"akva",template:"wash",name:"Аква Авто",short:"Аква",city:"Пятигорск",address:"пр. Калинина, 120",phone:"+7 (928) 000-00-02",review2gis:"https://2gis.ru/stavropol",reviewYandex:"https://yandex.ru/maps/36/stavropol/",requisites:"ИП Иванов Иван Иванович, ИНН 000000000000",warranty:`Гарантийные условия
+Гарантия на выполненные работы — 30 дней или 1 000 км пробега, в зависимости от того, что наступит раньше.
+Гарантия не распространяется на расходные материалы, естественный износ и на детали, предоставленные заказчиком.
+Для обращения по гарантии предъявите этот заказ-наряд.`},{slug:"garage26",template:"service",name:"Гараж 26",short:"Гараж 26",city:"Михайловск",address:"ул. Ленина, 98",phone:"+7 (961) 000-00-03",review2gis:"https://2gis.ru/stavropol",reviewYandex:"https://yandex.ru/maps/36/stavropol/",requisites:"ИП Иванов Иван Иванович, ИНН 000000000000",warranty:`Гарантийные условия
+Гарантия на выполненные работы — 30 дней или 1 000 км пробега, в зависимости от того, что наступит раньше.
+Гарантия не распространяется на расходные материалы, естественный износ и на детали, предоставленные заказчиком.
+Для обращения по гарантии предъявите этот заказ-наряд.`}];export{s as default};
